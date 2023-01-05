@@ -19,7 +19,7 @@ color: rgb(255, 255, 255);
 }
 
 #container {
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 100px;
     margin-left: 700px;
     backdrop-filter: blur(15);
@@ -29,6 +29,14 @@ color: rgb(255, 255, 255);
     background: rgb(43,139,131);
     background: linear-gradient(231deg, rgba(43,139,131,0.6306897759103641) 0%, rgba(145,146,153,0.6222864145658263) 100%);
     color: aliceblue;
-    height: 300px;
-    width: 500px;
+    height: 550px;
+    width: 550px;
+}
+
+figure {
+    margin: 0;
+}
+
+#audiotexte {
+    color: aliceblue;
 }
